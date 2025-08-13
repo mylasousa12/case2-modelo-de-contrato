@@ -1,0 +1,7 @@
+html>body>main>.contract-pdf-model {
+    border: none;
+    margin: 0;
+    padding: 0;
+    aspect-ratio: unset;
+    width: unset;
+}
